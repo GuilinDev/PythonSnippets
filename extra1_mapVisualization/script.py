@@ -6,6 +6,10 @@ from pyecharts import options as opts
 from pyecharts.globals import BMapType, ChartType
 
 import requests
+"""
+http://map.amap.com/subway/index.html?&1100
+获取高德地图接口数据Network -> subway?xxx -> Headers
+"""
 
 url = 'http://map.amap.com/service/subway?_1617152422631&srhdata=5000_drw_chongqing.json'
 response = requests.get(url)
