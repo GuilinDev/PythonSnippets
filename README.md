@@ -13,4 +13,4 @@
 ![0](/imgs/22Bookstore0.png)
 
 ### 27 Webcam Motion Detector with OpenCV
-![0]()
+![]()
